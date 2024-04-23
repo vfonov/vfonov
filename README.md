@@ -1,14 +1,14 @@
 ### About
 
-🧑‍🔬 I am researcher and software developer
+🧑‍🔬 I am a researcher and software developer
 
 🧠 Developing method to analyze brain MRI scans and other medical imaging
 
-👨‍💻 I also admisiter small linux clusters for HPC
+👨‍💻 I also administer small linux clusters for HPC 
 
 ### Bio
 
-🔬 I am currently an academic associate,  in the [McConnell Brain Imaging Centre, MNI, McGill University](https://www.mcgill.ca/bic/), in Montreal Canada 🇨🇦
+🔬 I am currently an academic associate, in the [McConnell Brain Imaging Centre, MNI, McGill University](https://www.mcgill.ca/bic/), in Montreal Canada 🇨🇦
 
 ⌛️ I used to work in serval companies, doing computer vision and medical imaging 
 
