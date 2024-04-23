@@ -2,9 +2,10 @@
 
 🧑‍🔬 I am a researcher and software developer
 
-🧠 Developing method to analyze brain MRI scans and other medical imaging
+🧠 Analyzing brain MRI scans
 
-👨‍💻 I also administer small linux clusters for HPC 
+👨‍💻 Administering small linux clusters for HPC
+
 
 ### Bio
 
